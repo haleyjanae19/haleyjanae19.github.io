@@ -1,11 +1,11 @@
 body{
 	
-font-family: "Helvetica", "Arial", fantasy;
+font-family: "Arial", Arial, Serif;
 	
-color: #AAFF00;
-	background-color: #ADD3F9;
+color:#000000;
+	background-color:#FFE4C4;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px	#A9A9A9;
 	text-align: center;
 
 }
@@ -18,25 +18,17 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #A9A9A9 ;
 
 }
 
 
 td, th {
     
-border: 1px solid #dddddd;
+border: 8px solid #000000;
     
 text-align: left;
     
-padding: 8px;
-
-}
-
-
-
-tr:nth-child(even) {
-    
-background-color: #dddddd;
+padding: 10px;
 
 }
